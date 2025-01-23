@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Algon31
 - 👀 I’m interested in Designing, Web Dev and Coding...
-- 🌱 I’m currently learning Web Dev and Blender
+- 🌱 I’m currently learning Web Dev and DSA
 - ⚡ Fun fact: I can learn anything, the thing is I'm lazy
 - ;)
 
